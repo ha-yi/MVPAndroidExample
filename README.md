@@ -15,4 +15,6 @@ Yang beralamatkan di [Jobs Github.](https://jobs.github.com/api)
 
 ## FAQ?
 
-Untuk pertanyaansilahkan layangkan ke [Telegram](http://t.me/hayinukman)
+- Untuk pertanyaansilahkan layangkan ke [Telegram](http://t.me/hayinukman)
+- [About Me](http://hayinukman.portfoliobox.net/)
+
